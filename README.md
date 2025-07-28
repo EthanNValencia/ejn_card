@@ -12,3 +12,5 @@
     git branch -M main
 
     git push -u origin main
+
+    https://ethannvalencia.github.io/ejn_card/
