@@ -17,6 +17,9 @@
 	
 	
 	
+    flutter build web --release
+    edit -> build/web/index.html -> <base href="/"> -> <base href="/ejn_card/">
+
 	cp -r build/web/* .
 	git add .
 	git commit -m "Test 005"
