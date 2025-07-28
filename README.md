@@ -29,3 +29,6 @@
 
 
     qr code - https://app.qr-code-generator.com
+	
+	
+	idea - make the email open to an english and spanish greeting, or possibly check if the browser has a prefered language and then open to that language
