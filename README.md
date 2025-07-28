@@ -6,7 +6,7 @@
 
     cp -r build/web/* . # Copy contents to root of your local repo
     git add .
-    git commit -m "Initial static website commit"
+    git commit -m "Test 005"
 
     git remote add origin https://github.com/EthanNValencia/ejn_card
     git branch -M main
@@ -14,3 +14,10 @@
     git push -u origin main
 
     https://ethannvalencia.github.io/ejn_card/
+	
+	
+	
+	cp -r build/web/* .
+	git add .
+	git commit -m "Test 005"
+	git push -u origin main

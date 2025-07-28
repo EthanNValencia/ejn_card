@@ -62,7 +62,7 @@ class BusinessCard extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   const Text(
-                    'Family and Community Engagement Advocate',
+                    'Family and Community\nEngagement Advocate',
                     style: TextStyle(
                       fontSize: 18,
                       color: Colors.tealAccent,
