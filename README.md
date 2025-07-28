@@ -24,3 +24,8 @@
 	git add .
 	git commit -m "Test 005"
 	git push -u origin main
+
+
+
+
+    qr code - https://app.qr-code-generator.com
