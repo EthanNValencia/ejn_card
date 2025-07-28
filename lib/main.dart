@@ -11,7 +11,7 @@ class BusinessCardApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Digital Business Card',
+      title: 'Ethan J. Nephew',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'Sans',
